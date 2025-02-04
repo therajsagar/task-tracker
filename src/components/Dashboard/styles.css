@@ -1,0 +1,15 @@
+.dashboard-wrapper {
+  background-color: white;
+}
+
+.top-bar {
+  text-align: left;
+  padding: 20px;
+  background-color: rgb(223, 223, 223);
+}
+
+.content-section {
+  background-color: white;
+  display: flex;
+  gap: 50px;
+}

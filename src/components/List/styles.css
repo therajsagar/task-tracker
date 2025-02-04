@@ -1,0 +1,21 @@
+.list-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  width: 300px;
+  background-color: rgba(235, 235, 235, 0.849);
+  padding: 20px;
+  position: relative;
+}
+
+.list-title {
+  margin: 0;
+  text-decoration: underline;
+}
+
+.remove-cta {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}

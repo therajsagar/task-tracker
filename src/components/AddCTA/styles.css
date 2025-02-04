@@ -1,0 +1,27 @@
+.add-new-cta {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* width: 150px; */
+  gap: 10px;
+}
+
+.cta-btn {
+  background-color: black;
+  color: white;
+  font-weight: 600;
+  width: 100px;
+  outline: none;
+  border-radius: 4px;
+  border: none;
+  padding: 5px;
+}
+
+input.title {
+  width: 120px;
+}
+
+input.content {
+  width: 200px;
+}
